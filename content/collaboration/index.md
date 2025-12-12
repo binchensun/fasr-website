@@ -12,7 +12,7 @@ sections:
       subtitle: ''
       text: |
 
-        FASR is being developed as a **university-led consortium** anchored at the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), working in partnership with universities, national observatories/laboratories, and international research institutions. NJIT serves as the lead institution, coordinating the project and providing administrative and organizational support.
+        FASR is being developed as a **university-led consortium** led by the [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/), working in partnership with universities, national observatories/laboratories, and international research institutions. 
 
         The consortium model ensures that FASR benefits from the broad expertise of the solar physics, radio astronomy, and space weather communities. Partner institutions contribute to key elements of the project—including antenna design, digital systems, software pipelines, science planning, and education and outreach—while sharing governance through a collaborative council representing the participating organizations.
 
