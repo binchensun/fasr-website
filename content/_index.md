@@ -37,7 +37,7 @@ sections:
       title: About FASR
       subtitle: ''
       text: |
-        The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu), but with 10 times more antennas, 100 times more baselines, and an order of magnitude wider bandwidth, it will enable radio imaging with unprecedentedly high image dynamic range, fidelity, and sensitivity. Together with greatly enhanced angular resolution, spectral resolution, and time cadence, it will bring the transformative technique of "**ultrawide-band radio video camera**" to solar and heliospheric studies. 
+        The **Frequency Agile Solar Radiotelescope (FASR)** is a next generation radio interferometer array dedicated to solar and space weather research. FASR will build upon the technology that enabled the [Expanded Owens Valley Solar Array](https://ovsa.njit.edu), but with 10 times more antennas, 100 times more baselines, and an order of magnitude wider bandwidth, it will enable radio imaging with unprecedentedly high image dynamic range, fidelity, and sensitivity. Together with greatly enhanced angular resolution, spectral resolution, and time cadence, it will bring the transformative technique of "**ultrawide-band radio video camera**" to solar and space weather studies. 
         
         By virtue of its broad frequency coverage, FASR will image the entire solar atmosphere multiple times per second from the chromosphere through the corona, while retaining the capability to image a selected frequency range with as little as millisecond-level time resolution. FASR is sensitive to temperatures from < 10,000 K to > 30 MK, and nonthermal particle energies from ∼ 20 keV to > 1 MeV. Moreover, FASR’s panoramic view allows the solar atmosphere and the physical phenomena therein, both thermal and nonthermal, to be studied as a coupled system.
 
@@ -50,7 +50,8 @@ sections:
         and **space weather**:
 
         “Conclusion: Implementation…will…require collaboration across multiple NSF divisions. New research infrastructure, such as…FASR…would bring significant new contributions to observing the space weather drivers and impacts.” (pp. 107)
-       
+      columns: '1'       
+  
   - block: markdown
     content:
       title: Project Overview
@@ -62,7 +63,7 @@ sections:
           <img src="/media/FASR_science_cover_pic.jpg" alt="FASR science cover" style="width:100%; height:auto; display:block;">
         </div>
 
-        The science FASR addresses is as broad as solar physics itself. FASR measures the polarized brightness temperature spectrum along every line of sight to the Sun as a function of time. It would operate from 0.2 to 20 GHz (or 30 GHz if the hardware allows). Radiation over this vast wavelength range probes the solar atmosphere from the middle chromosphere into the middle corona—the dynamic, magnetoactive, plasma environment in which a wealth of astrophysical and space weather processes occurs. The broad science topics addressed by FASR may be loosely grouped into the following themes:
+        The science FASR addresses is as broad as solar physics itself. FASR measures the polarized brightness temperature spectrum along every line of sight to the Sun as a function of time. It would operate from 0.2 to 20 GHz (or 30 GHz if the hardware allows) with two co-located arrays: FASR-A (2-20 GHz or 1.5-30 GHz) and FASR-B (0.2-2 GHz). Radiation over this vast wavelength range probes the solar atmosphere from the middle chromosphere into the middle corona—the dynamic, magnetoactive, plasma environment in which a wealth of astrophysical and space weather processes occurs. The broad science topics addressed by FASR may be loosely grouped into the following themes:
 
         **Magnetic Reconnection & Particle Acceleration**  
         Probing the physics of energy release, particle acceleration, and the formation of flare-accelerated populations during solar flares and eruptive events.
@@ -88,11 +89,11 @@ sections:
         | Dynamic range | > 1000:1 |
         | Frequency range | 200 MHz–20 GHz (possibly 30 GHz) |
         | Data channels | 2 (dual polarization) |
-        | Instantaeous Bandwidth | A: 20 GHz; B: (2 GHz) |
+        | Instantaneous Bandwidth | A: 20 GHz; B: (2 GHz) |
         | Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 5 MHz) |
         | Time resolution | Standard: 1 s; Bursty: down to 1 ms|
         | Polarization | Full Stokes (IQUV) |
-        | Antennas deployed | A (2–20 GHz): ~100-120; B (0.2–2 GHz): 60-100 |
+        | Antennas deployed | A (2–20 GHz or 1.5-30 GHz): ~100-120; B (0.2–2 GHz): 60-100 |
         | Antenna sizes | A (2–20 GHz or 1.5-30 GHz): 2 m; B (0.2–2 GHz): 6 m |
         | Array size | 4 × 5 km |
         | Absolute position error | 1 arcsec |
@@ -104,10 +105,10 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Latest News & Events
       subtitle:
       text:
-      count: 2
+      count: 3
       filters:
         author: ''
         category: ''
