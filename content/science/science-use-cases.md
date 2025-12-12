@@ -78,25 +78,7 @@ The FASR project welcomes additional science use cases from the broader heliophy
 - standard and high-level data products
 - long-term science priorities
 
-### Reference FASR Specifications
-
-The working reference design below is evolving with community input—new science use cases help refine these targets and trade-offs.
-
-| Specification | Value |
-| --- | --- |
-| Angular resolution | 20″/ν<sub>GHz</sub> (≈1″ @ 20 GHz) |
-| Dynamic range | > 1000:1 |
-| Frequency range | 200 MHz–20 GHz |
-| Data channels | 2 (dual polarization) |
-| Bandwidth | 4 GHz per channel |
-| Frequency resolution | Instrumental: 125 kHz; Science: min(1%, 5 MHz) |
-| Time resolution | 1 ms (full spectrum) |
-| Polarization | Full Stokes (IQUV) |
-| Antennas deployed | A (2–20 GHz): 120; B (0.2–2 GHz): 60 |
-| Antenna sizes | A (2–20 GHz): 2 m; B (0.2–2 GHz): 6 m |
-| Array size | 4 × 5 km |
-| Absolute positions | 1 arcsec |
-| Absolute flux calibration | Better than 10% |
+{{< include-md "includes/fasr-specifications.md" >}}
 
 If you are interested in submitting a new science use case for consideration, please fill out the FASR Science Use Case form (link to be provided), and email the completed document to the [FASR Science Working Group](mailto:fasr-science-group@njit.edu).
 
