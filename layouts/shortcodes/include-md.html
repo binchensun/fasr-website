@@ -1,0 +1,3 @@
+{{- $path := .Get 0 -}}
+{{- $raw := readFile $path -}}
+{{- .Page.RenderString (dict "display" "block") $raw -}}
