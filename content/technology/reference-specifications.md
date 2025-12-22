@@ -4,7 +4,7 @@ date: 2025-12-21
 type: page
 ---
 
-<!-- **FASR Reference Specifications (December 2025)** -->
+
 
 FASR is designed to perform Fourier synthesis imaging using well-established interferometric techniques. For an array of N antennas there are approximately N²/2 independent antenna pairs, each of which measures a single Fourier component (a complex visibility) of the Sun’s radio brightness distribution at a given frequency, time, and spatial scale. The ensemble of antenna baselines therefore measures many Fourier components. Fourier inversion of the visibility measurements yields an image of the Sun’s radio brightness at a given frequency, time, and polarization. Deconvolution techniques are then used to remove the effects of the point spread function, the response of the instrument to a point source.
 

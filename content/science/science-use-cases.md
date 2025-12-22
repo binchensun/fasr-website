@@ -1,10 +1,10 @@
 ---
 title: FASR Science Use Cases
-date: 2025-12-11
+date: 2025-12-21
 type: page
 ---
 
-The initial science drivers and [reference design parameters](/technology/reference-specifications/) for FASR were established through [community white papers](#fasr-related-decadal-survey-white-papers) and technical studies. The topics of the white pages are grouped into four general themes, organized as the [Science Working Groups (SWGs)](#fasr-science-working-groups-swgs). The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community. 
+The initial science drivers and [reference design parameters](/technology/reference-specifications/) for FASR were established through [community white papers](#fasr-related-decadal-survey-white-papers) and technical studies. The topics of the white papers are grouped into four general themes, organized as the [Science Working Groups (SWGs)](#fasr-science-working-groups-swgs). The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community. 
 We invite the community to submit Science Use Cases as FASR progresses through the Conceptual Design Phase. If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](TBA). Community input will directly inform decisions about:
 
 
@@ -26,7 +26,7 @@ The following example science use cases illustrate the general information and s
 1. [Mapping Coronal Magnetic Fields During Solar Eruptions](https://docs.google.com/document/d/1Uu0j3USGtATwUuwSvio0rISWBf9U6qFrp7cLNUfen8k/edit?usp=drive_link)
 2. [Investigation of compact transient structures in the low corona](https://docs.google.com/document/d/1N6zXcH_lQILgMNyZx5PYeZtVcf018SD7/edit?usp=sharing&ouid=116534824968148255658&rtpof=true&sd=true)
 
-We encourage contributions across the full spectrum of heliosphysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently--**the FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**. Your input will help ensure that FASR is designed to address the most compelling scientific questions of the coming decades.
+We encourage contributions across the full spectrum of heliophysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently--**the FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**. Your input will help ensure that FASR is designed to address the most compelling scientific questions of the coming decades.
 
 ---
 
