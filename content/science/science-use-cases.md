@@ -19,7 +19,7 @@ If you are interested in submitting a new science use case for consideration, pl
 
 ---
 
-## [Example Science Use Case Templates](#example-science-use-case-templates)
+<h2 id="example-science-use-case-templates"><a href="#example-science-use-case-templates">Example Science Use Case Templates</a></h2>
 
 The following example science use cases illustrate the general information and structure that are helpful for us to refine the FASR design:
 
@@ -30,7 +30,7 @@ We encourage contributions across the full spectrum of heliophysics, from founda
 
 ---
 
-## [FASR Science Working Groups (SWGs)](#fasr-science-working-groups-swgs)
+<h2 id="fasr-science-working-groups-swgs"><a href="#fasr-science-working-groups-swgs">FASR Science Working Groups (SWGs)</a></h2>
 
 Science use cases are being developed and evaluated within four current Science Working Groups, spanning the major areas of solar radio physics.
 
@@ -48,7 +48,7 @@ Characterizing solar activity that perturbs the heliosphere and affects the geos
 
 ---
 
-## [FASR-Related Decadal Survey White Papers](#fasr-related-decadal-survey-white-papers)
+<h2 id="fasr-related-decadal-survey-white-papers"><a href="#fasr-related-decadal-survey-white-papers">FASR-Related Decadal Survey White Papers</a></h2>
 
 Below is a curated list of FASR-related white papers submitted to the 2024–2033 Solar and Space Physics Decadal Survey, organized by science theme.
 
@@ -88,6 +88,7 @@ Below is a curated list of FASR-related white papers submitted to the 2024–203
 
 ---
 
-
-## [Reference Specifications](#reference-specifications)
+<h2 id="reference-specifications"><a href="#reference-specifications">Reference Specifications</a></h2>
 {{< include-md "includes/fasr-specifications.md" >}}
+
+For more details, see [FASR Reference Specifications](/technology/reference-specifications/).

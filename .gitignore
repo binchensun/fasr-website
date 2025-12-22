@@ -8,3 +8,5 @@ assets/jsconfig.json
 
 
 .DS_Store
+
+.hugo_cache
