@@ -12,20 +12,23 @@ We invite the community to submit Science Use Cases as FASR progresses through t
 - Calibration and data processing requirements
 - Standard and high-level data products
 - Long-term science priorities
-
-**If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](https://forms.gle/4BqZKRL5qHh5jSC37).**
-
 ---
 
 <h2 id="example-science-use-case-templates"><a href="#example-science-use-case-templates">Science Use Case Submission Form and Templates</a></h2>
 
-We use [the Science Use Case Submission Form](https://forms.gle/z3SX25uuPNSgEXzr9) to gather community input. The Google Form has two sections. The first section contains key input on the science goal and basic information on the target. The second section can be used to enter more details on technical requirements. You are welcome to skip any question if you do not feel you have the information on hand. We encourage all contributions across the full spectrum of heliophysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently. Please feel free to skip any question if you do not feel you have the information on hand. **the FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**.
+We use [the Science Use Case Submission Form](https://forms.gle/z3SX25uuPNSgEXzr9) to gather community input. The questionnaire has two sections. The first section contains key input on the science goal and basic information on the target. The second section can be used to enter more details on technical requirements. You are welcome to skip any question if you do not feel you have the information on hand. We encourage all contributions across the full spectrum of heliophysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently. Please feel free to skip any question if you do not feel you have the information on hand. **The FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**.
 
 To preview what questions are on the form, here are 
 1. [A printout of the full Google Forms questionnaire](../FASR%20Science%20Use%20Case%20Submission%20Form%20-%20printout.pdf)
-2. An example with basic input: [Study of Electron Acceleration with High Time Resolution](../Example%20of%20a%20FASR%20SUC_%20High%20Time%20Resolution%20Study.pdf) 
+2. An example of a filled out Science Use Case form with basic input: [Study of Electron Acceleration with High Time Resolution](../Example%20of%20a%20FASR%20SUC_%20High%20Time%20Resolution%20Study.pdf)
 
-After receiving the community input, the FASR team and Science Working Groups (see the section below) will sort through the submissions, and work with the authors to further develop and refine the technical requirements. The results will be used to form the final collection of FASR science use cases and published on our website. Here is an example of a full science use case writeup: [Investigation of compact transient structures in the low corona](../FASR_quiet_sun_transient_science_case.docx). Template of the full science use case is available in [Docx format](../FASR_Science_Use_Case_Template_v0.2.docx) and [Overleaf](https://www.overleaf.com/read/ksdtwpdrghyz#00e118).
+3. An example of a full Science Use Case writeup based on completed form with full technical input: [Investigation of compact transient structures in the low corona](../FASR_quiet_sun_transient_science_case.docx)
+
+After receiving the community input, the FASR team and Science Working Groups (see the section below) will sort through the submissions, and work with the authors to further develop and refine the technical requirements. The results will be used to form the final collection of FASR science use cases and published on our website. Template of the full science use case is available in [Docx format](../FASR_Science_Use_Case_Template_v0.2.docx) and [Overleaf](https://www.overleaf.com/read/ksdtwpdrghyz#00e118).
+
+For full consideration, please submit your Science Use Case using the following link by **April 30, 2026**:
+
+[**Submitting your Science Use Case here**](https://forms.gle/z3SX25uuPNSgEXzr9)
 
 ---
 
