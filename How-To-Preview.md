@@ -1,6 +1,6 @@
 # Preview in GitHub Codespaces (recommended)
-1. Fork https://github.com/binchensun/fasr-website.  
-2. Go to codespaces (https://github.com/codespaces) and create a new Codespace from your fork .  
+1. Make a fork of [the main repository](https://github.com/ovro-eovsa/fasr-website/).  
+2. Go to codespaces (https://github.com/codespaces) and create a new Codespace from your fork.  
 3. Wait for the devcontainer to finish provisioning (it installs Hugo Extended and Go).  
 4. In the Codespaces terminal, run:
    ```bash
