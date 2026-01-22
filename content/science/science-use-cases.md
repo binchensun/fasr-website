@@ -5,7 +5,7 @@ type: page
 ---
 
 The initial science drivers and [reference design parameters](/technology/reference-specifications/) for FASR were established through [community white papers](#fasr-related-decadal-survey-white-papers) and technical studies. The topics of the white papers are grouped into four general themes, organized as the [Science Working Groups (SWGs)](#fasr-science-working-groups-swgs). The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community. 
-We invite the community to submit Science Use Cases as FASR progresses through the Conceptual Design Phase. If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](TBA). Community input will directly inform decisions about:
+We invite the community to submit Science Use Cases as FASR progresses through the Conceptual Design Phase. Community input will directly inform decisions about:
 
 
 - observing modes
@@ -14,8 +14,7 @@ We invite the community to submit Science Use Cases as FASR progresses through t
 - standard and high-level data products
 - long-term science priorities
 
-<!-- 
-If you are interested in submitting a new science use case for consideration, please fill out the FASR Science Use Case form (link to be provided), and email the completed document to the [FASR Science Working Group](mailto:fasr-science-group@njit.edu). -->
+**If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](https://forms.gle/4BqZKRL5qHh5jSC37).**
 
 ---
 
@@ -25,6 +24,7 @@ The following example science use cases illustrate the general information and s
 
 1. [Mapping Coronal Magnetic Fields During Solar Eruptions](https://docs.google.com/document/d/1Uu0j3USGtATwUuwSvio0rISWBf9U6qFrp7cLNUfen8k/edit?usp=drive_link)
 2. [Investigation of compact transient structures in the low corona](https://docs.google.com/document/d/1N6zXcH_lQILgMNyZx5PYeZtVcf018SD7/edit?usp=sharing&ouid=116534824968148255658&rtpof=true&sd=true)
+3. [Study of Electron Acceleration with High Time Resolution](https://docs.google.com/document/d/130lWdDVL--KLpO_pk68dgrMILyYnP3uEl-KCgPrwatU/edit?usp=share_link)
 
 We encourage contributions across the full spectrum of heliophysics, from foundational plasma physics to operational space weather forecasting. Contributors are not expected to develop all technical details independently--**the FASR team and Science Working Groups can assist, particularly in translating science goals into observational and instrumental requirements**. Your input will help ensure that FASR is designed to address the most compelling scientific questions of the coming decades.
 
@@ -45,6 +45,8 @@ Investigating the conversion of magnetic energy into thermal and kinetic energy,
 
 **SWG4: Drivers of Space Weather**  
 Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.
+
+Science Use Cases for topics outside these areas are also welcome.
 
 ---
 
