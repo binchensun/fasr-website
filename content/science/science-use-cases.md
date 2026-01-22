@@ -1,12 +1,11 @@
 ---
 title: FASR Science Use Cases
-date: 2025-12-21
+date: 2026-01-22
 type: page
 ---
 
 The initial science drivers and [reference design parameters](/technology/reference-specifications/) for FASR were established through [community white papers](#fasr-related-decadal-survey-white-papers) and technical studies. The topics of the white papers are grouped into four general themes, organized as the [Science Working Groups (SWGs)](#fasr-science-working-groups-swgs). The current development phase builds on this foundation, expanding and refining the scientific vision with direct input from the heliophysics community. 
 We invite the community to submit Science Use Cases as FASR progresses through the Conceptual Design Phase. If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Submission Form](https://forms.gle/z3SX25uuPNSgEXzr9). Community input will directly inform decisions about:
-
 
 - Observing modes
 - Frequency coverage and resolution
@@ -14,8 +13,7 @@ We invite the community to submit Science Use Cases as FASR progresses through t
 - Standard and high-level data products
 - Long-term science priorities
 
-<!-- 
-If you are interested in submitting a new science use case for consideration, please fill out the FASR Science Use Case form (link to be provided), and email the completed document to the [FASR Science Working Group](mailto:fasr-science-group@njit.edu). -->
+**If you are interested in submitting a new Science Use Case for consideration, please fill out the [FASR Science Use Case Form](https://forms.gle/4BqZKRL5qHh5jSC37).**
 
 ---
 
@@ -46,6 +44,8 @@ Investigating the conversion of magnetic energy into thermal and kinetic energy,
 
 **SWG4: Drivers of Space Weather**  
 Characterizing solar activity that perturbs the heliosphere and affects the geospace environment, improving our ability to forecast space-weather conditions.
+
+Science Use Cases for topics outside these areas are also welcome.
 
 ---
 
